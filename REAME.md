@@ -1,1 +1,1 @@
-## Very simple coming soon page !!!
+## Very simple coming soon page !!
